@@ -6,3 +6,5 @@ dist
 .vscode
 storybook-static/
 package-lock.json
+# pip install chakra
+# npm run chakra
