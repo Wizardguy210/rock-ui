@@ -1,10 +1,10 @@
-*.log
-.DS_Store
-node_modules
-.cache
-dist
-.vscode
-storybook-static/
-package-lock.json
+# *.log
+# .DS_Store
+# node_modules
+# .cache
+# dist
+# .vscode
+# storybook-static/
+# package-lock.json
 # pip install chakra
 # npm run chakra
